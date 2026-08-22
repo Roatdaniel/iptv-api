@@ -1,22 +1,18 @@
 🕘️更新时间,#genre#
-2026-08-22 18:28:45,http://221.7.175.154:8445/tsfile/live/1000_1.m3u8
+2026-08-23 06:24:15,http://211.92.102.44:9901/tsfile/live/0002_1.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://221.7.175.154:8445/tsfile/live/1000_1.m3u8
-CCTV-1,http://111.59.24.227:8181/tsfile/live/0001_1.m3u8
+CCTV-2,http://211.92.102.44:9901/tsfile/live/0002_1.m3u8
 CCTV-2,http://218.13.138.139:59901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://111.59.24.227:8181/tsfile/live/1002_1.m3u8
 CCTV-3,http://218.13.138.139:59901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://111.59.24.227:8181/tsfile/live/0004_1.m3u8
-CCTV-5,http://111.59.24.227:8181/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+,http://221.232.198.40:7777/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://112.27.145.212:9902/tsfile/live/1505_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://221.7.175.154:8445/tsfile/live/1007_1.m3u8
+CCTV-4,http://112.27.5.218:9901/tsfile/live/0004_1.m3u8
+CCTV-5,http://111.59.24.227:8181/tsfile/live/0016_1.m3u8
+CCTV-6,http://211.92.102.44:9901/tsfile/live/0006_1.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-12,http://111.59.24.227:8181/tsfile/live/0012_1.m3u8
+CCTV-13,http://111.59.24.227:8181/tsfile/live/0013_1.m3u8
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
-CCTV-16,http://111.8.242.104:8088/tsfile/live/1020_1.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
-CCTV-17,http://221.232.198.40:7777/tsfile/live/1073_1.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 
 💰央视付费频道,#genre#
@@ -30,31 +26,21 @@ CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
 
 📡卫视频道,#genre#
-广东卫视,http://111.59.24.227:8181/tsfile/live/0125_1.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://183.94.146.79:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
-安徽卫视,http://112.27.5.218:9901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-江苏卫视,http://111.59.24.227:8181/tsfile/live/0127_1.m3u8
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
-辽宁卫视,http://112.27.5.218:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi
-内蒙古卫视,http://120.238.84.45:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,http://111.59.24.227:8181/tsfile/live/1030_1.m3u8
-深圳卫视,http://221.7.175.154:8445/tsfile/live/0126_1.m3u8
-天津卫视,http://183.94.146.79:9901/tsfile/live/0132_2.m3u8
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
-新疆卫视,http://120.198.86.186:9901/tsfile/live/1090_1.m3u8
-云南卫视,http://120.198.86.186:9901/tsfile/live/1081_1.m3u8
 
 ☘️广东频道,#genre#
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
@@ -81,7 +67,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 天津体育,http://168250.xyz:1111/rtp/239.5.1.3:5000
 
 🪁动画频道,#genre#
-少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
@@ -91,9 +76,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
-金鹰卡通,http://112.27.5.218:9901/tsfile/live/faacts/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通,http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv
+炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通,rtsp://118.212.169.207:554/PLTV/88888888/224/3221226968/10000100000000060000000000568712_0.smil
 炫动卡通,rtsp://115.153.245.70/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.254.81/PLTV/88888888/224/3221225583/iptv7982.smil
