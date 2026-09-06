@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-09-06 21:28:29,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
+2026-09-07 07:34:26,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
-CCTV-5,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
@@ -30,6 +29,7 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 
